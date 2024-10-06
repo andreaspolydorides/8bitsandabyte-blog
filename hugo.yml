@@ -1,0 +1,4 @@
+baseURL: "https://andreaspolydorides.github.io/8bitsandabyte-blog/" 
+languageCode: en-us
+title: My New Hugo Site
+theme: hugo-theme-stack
