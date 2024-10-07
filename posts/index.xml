@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on My New Hugo Site</title>
-        <link>https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/</link>
-        <description>Recent content in Posts on My New Hugo Site</description>
+        <title>Posts on 8 Bits and a Byte</title>
+        <link>http://8bitsandabyte.com/posts/</link>
+        <description>Recent content in Posts on 8 Bits and a Byte</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://8bitsandabyte.com/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
-        <link>https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/test/</link>
+        <link>http://8bitsandabyte.com/posts/test/</link>
         <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/test/</guid>
+        <guid>http://8bitsandabyte.com/posts/test/</guid>
         <description>&lt;h3 id=&#34;attention-employees-of-dunder-mifflin&#34;&gt;ATTENTION EMPLOYEES OF DUNDER MIFFLIN
 &lt;/h3&gt;</description>
         </item>

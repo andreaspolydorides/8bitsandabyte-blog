@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andreaspolydorides.github.io/8bitsandabyte-blog/</loc>
+    <loc>http://8bitsandabyte.com/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/</loc>
+    <loc>http://8bitsandabyte.com/posts/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreaspolydorides.github.io/8bitsandabyte-blog/posts/test/</loc>
+    <loc>http://8bitsandabyte.com/posts/test/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andreaspolydorides.github.io/8bitsandabyte-blog/categories/</loc>
+    <loc>http://8bitsandabyte.com/categories/</loc>
   </url><url>
-    <loc>https://andreaspolydorides.github.io/8bitsandabyte-blog/tags/</loc>
+    <loc>http://8bitsandabyte.com/tags/</loc>
   </url>
 </urlset>
