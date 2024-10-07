@@ -1,4 +1,4 @@
-baseURL: "https://andreaspolydorides.github.io/8bitsandabyte-blog/" 
+baseURL: "http://8bitsandabyte.com/" 
 languageCode: en-us
-title: My New Hugo Site
+title: 8 Bits and a Byte
 theme: hugo-theme-stack
